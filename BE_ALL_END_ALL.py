@@ -1,19 +1,7 @@
-# -----------
-# User Instructions
-#
-# Familiarize yourself with the code below. Most of it
-# reproduces results that you have obtained at some
-# point in this class. Once you understand the code,
-# write a function, cte, in the run class that
-# computes the crosstrack
-# error for the case of a segmented path. You will
-# need to include the equations shown in the video.
-#
-
 from math import *
 import random
 
-# don't change the noise paameters
+
 
 steering_noise = 0.1
 distance_noise = 0.03
